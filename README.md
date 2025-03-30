@@ -1,2 +1,2 @@
 ## Calculator-App
-### Tech Stack: HTML, CSS, JavaScript
+### Tech Stack: HTML, CSS, JavaScript.
